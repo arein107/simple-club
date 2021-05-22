@@ -1,0 +1,8 @@
+## Interface: 90002
+## Author: Bery-Barthilas
+## Version 0.5
+## Title: Simple Club Tool
+## Notes:  just a small addon for World of Warcraft: Shadowlands that will query your existing club/guild memberships for info like join date/club size etc. Also formats the roster for export (helpful for club/community leaders for certain things)
+## X-Category: Data Export
+## X-License: GNU General Public License v3.0
+core.lua
